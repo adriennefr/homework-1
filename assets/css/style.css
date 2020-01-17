@@ -86,7 +86,7 @@ main {
     background-color: #2589bd;
 }
 
-.benefit-lead, .benefit-brand, .benefit-cost {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -96,13 +96,13 @@ main {
     text-align: center;
 }
 
-.benefit-lead img, .benefit-brand img, .benefit-cost {
+.image {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.section {
+.section1 {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -111,8 +111,8 @@ main {
     color: #ffffff;
 }
 
-.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
-    max-height: 200px;
+.pic {
+     max-height: 200px;
 }
 
 
